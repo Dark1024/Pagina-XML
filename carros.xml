@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="carros.xsl" type="text/xsl" ?>
+<fruits>
+	<fruit>
+		<name>Manzana</name>
+		<color>Rojo</color>
+		<price>$1</price>
+	</fruit>
+	<fruit>
+		<name>Banano</name>
+		<color>Amarillo</color>
+		<price>$0.5</price>
+	</fruit>
+	<fruit>
+		<name>Sandia</name>
+		<color>Verde y Roja</color>
+		<price>$2</price>
+	</fruit>
+</fruits>
